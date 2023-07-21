@@ -1,5 +1,5 @@
 # HEALTH-INSURANCE-CROSS-SELL-PREDICTION 
-https://drive.google.com/file/d/1o_9wD-9Bu760rnEouxWRlXky0n63fPQE/view?usp=sharing
+
 HEALTH-INSURANCE-CROSS-SELL-PREDICTION
 ![image](https://github.com/Rahul-2045/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/116415973/5a143f6f-f96d-46f6-b413-ee147777b535)
 
@@ -16,10 +16,10 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
-For complete project video explaination and to downoad the dataset: For complete project video explaination and to downoad the dataset: https://drive.google.com/drive/folders/1fF_cRyhd1vsvoOs6BlpPce98_9mUFdYH?usp=sharing
+For complete project video explaination and to downoad the dataset: For complete project video explaination and to downoad the dataset: https://drive.google.com/file/d/1o_9wD-9Bu760rnEouxWRlXky0n63fPQE/view?usp=sharing
 
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
-Connect with me on https://www.linkedin.com/in/khushboo-khanrah
+Connect with me on www.linkedin.com/in/rahul-verma-176537234
 
 Happy Learning!
